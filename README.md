@@ -7,6 +7,9 @@ Some interesting papers and articles in no particular order.
 * [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys)
 * [CAP FAQ](https://henryr.github.io/cap-faq/)
 * [Google Spanner](https://research.google.com/archive/spanner.html)
+* [Cockroach DB : Life Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
+* [Jepsen Analyses](https://jepsen.io/analyses)
+* [Starbucks Does not Use Two Phase Commit](http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 
 ## Programming
 * [Execution In the Kingdom of the Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
