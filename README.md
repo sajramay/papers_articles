@@ -10,6 +10,7 @@ Some interesting papers and articles in no particular order.
 * [Cockroach DB : Life Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
 * [Jepsen Analyses](https://jepsen.io/analyses)
 * [Starbucks Does not Use Two Phase Commit](http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+* [The Laws of the Imaginary Greeks](https://medium.com/@yonatanzunger/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49)
 
 ## Programming
 * [Execution In the Kingdom of the Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
