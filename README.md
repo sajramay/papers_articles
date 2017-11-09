@@ -19,3 +19,8 @@ Some interesting papers and articles in no particular order.
 ## Functional Programming
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 * [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
+
+## Architecture
+* [C2 Wiki](http://wiki.c2.com/)
+* [Hexagon aka Ports and Adapters](http://alistair.cockburn.us/Hexagonal+architecture)
+* [Package by Feature vs Package by Component](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
