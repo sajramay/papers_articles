@@ -28,12 +28,12 @@ Some interesting papers and articles in no particular order.
 * [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
 
 ## Architecture
-* [C2 Wiki](http://wiki.c2.com/)
+* [C2](http://c2.com/)
 * [Hexagon aka Ports and Adapters](http://alistair.cockburn.us/Hexagonal+architecture)
 * [Package by Feature vs Package by Component](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [The Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-* [Portland Pattern Repository](http://wiki.c2.com/)
+* [Portland Pattern Repository](http://c2.com/ppr)
 
 ## Other
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
