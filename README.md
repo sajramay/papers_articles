@@ -15,6 +15,7 @@ Some interesting papers and articles in no particular order.
 * [Raft](https://raft.github.io)
 * [DynamoDB](http://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html)
 * [What Every Systems Programmer Should Know About Lockless Concurrency](https://assets.bitbashing.io/papers/lockless.pdf)
+* [State Management in Apache Flink](http://www.vldb.org/pvldb/vol10/p1718-carbone.pdf)
 
 ## Event Sourcing and Streaming
 * [Turning the Database Inside Out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza)
@@ -26,6 +27,7 @@ Some interesting papers and articles in no particular order.
 ## Functional Programming
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 * [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html)
+* [What is a Monad?](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 ## Architecture
 * [C2](http://c2.com/)
