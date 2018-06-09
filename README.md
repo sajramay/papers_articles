@@ -37,5 +37,9 @@ Some interesting papers and articles in no particular order.
 * [The Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Portland Pattern Repository](http://c2.com/ppr)
 
+## JavaScript
+* [React Redux Links](https://github.com/markerikson/react-redux-links)
+
 ## Other
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+* [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
