@@ -43,3 +43,9 @@ Some interesting papers and articles in no particular order.
 ## Other
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+
+## The Java Memory Model
+* [Java Memory Model](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
+* [The Java Memory Model Pragmatics](https://shipilev.net/blog/2014/jmm-pragmatics/)
+* [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
+* [Safe Publication and Safe Initialization in Java](https://shipilev.net/blog/2014/safe-public-construction/)
