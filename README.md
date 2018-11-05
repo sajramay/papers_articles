@@ -49,3 +49,4 @@ Some interesting papers and articles in no particular order.
 * [The Java Memory Model Pragmatics](https://shipilev.net/blog/2014/jmm-pragmatics/)
 * [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 * [Safe Publication and Safe Initialization in Java](https://shipilev.net/blog/2014/safe-public-construction/)
+* [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
