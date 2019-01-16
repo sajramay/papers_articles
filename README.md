@@ -43,6 +43,7 @@ Some interesting papers and articles in no particular order.
 ## Other
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+* [Networking on AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
 
 ## The Java Memory Model
 * [Java Memory Model](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
