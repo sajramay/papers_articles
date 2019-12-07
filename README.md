@@ -16,6 +16,7 @@ Some interesting papers and articles in no particular order.
 * [DynamoDB](http://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html)
 * [What Every Systems Programmer Should Know About Lockless Concurrency](https://assets.bitbashing.io/papers/lockless.pdf)
 * [State Management in Apache Flink](http://www.vldb.org/pvldb/vol10/p1718-carbone.pdf)
+* [Life beyond Distributed Transactions](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf)
 
 ## Event Sourcing and Streaming
 * [Turning the Database Inside Out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza)
