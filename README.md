@@ -37,6 +37,7 @@ Some interesting papers and articles in no particular order.
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [The Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Portland Pattern Repository](http://c2.com/ppr)
+* [Effective Aggregate Design](https://dddcommunity.org/library/vernon_2011/)
 
 ## JavaScript
 * [React Redux Links](https://github.com/markerikson/react-redux-links)
