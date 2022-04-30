@@ -54,3 +54,12 @@ Some interesting papers and articles in no particular order.
 * [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 * [Safe Publication and Safe Initialization in Java](https://shipilev.net/blog/2014/safe-public-construction/)
 * [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
+
+## Kotlin Co-Routines
+* [Deep Dive into Coroutines on JVM by Roman Elizarov](https://www.youtube.com/watch?v=YrrUCSi72E8)
+* [Co-routines Guide](https://kotlinlang.org/docs/coroutines-guide.html)
+* [Co-routines Github](https://kotlin.github.io/kotlinx.coroutines/index.html)
+* [Spring and Co-routines](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
+* [Baeldung](https://www.baeldung.com/kotlin/spring-boot-kotlin-coroutines)
+* [RSocket and WebFlux](https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/)
+* [Under the Hood](https://kt.academy/article/cc-under-the-hood)
