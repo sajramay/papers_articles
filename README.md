@@ -54,7 +54,7 @@ Some interesting papers and articles in no particular order.
 * [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 * [Safe Publication and Safe Initialization in Java](https://shipilev.net/blog/2014/safe-public-construction/)
 * [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
-* [https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/](Threads Beat Async Await)
+* [Threads Beat Async Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 
 ## Kotlin Co-Routines
 * [Deep Dive into Coroutines on JVM by Roman Elizarov](https://www.youtube.com/watch?v=YrrUCSi72E8)
